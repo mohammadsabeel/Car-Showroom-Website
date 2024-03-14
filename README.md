@@ -1,23 +1,3 @@
-<div align="center">
-
-<br>
-
-<img src="docs/assets/dealership_.png" height="300" alt="Autorizz" /><br>
-<img src="docs/assets/autorizz.png" height="80" alt="Autorizz" />
-
-# Car-Dealership-System-using-NodeJS-Express-MongoDB
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Stars&logo=github&style=flat)
-![Github forks](https://img.shields.io/github/forks/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Forks&logo=github&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=Issues&color=yellow&logo=github&style=flat)
-![GitHub License](https://img.shields.io/github/license/defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?label=License)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB/total?label=Downloads&color=red)](https://github.com/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB/releases)
-![Visits Badge](https://badges.pufler.dev/visits/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB?color=14BF96)
-<!-- [![GitHub pull requests](https://img.shields.io/github/issues-pr/Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB)] -->
-
-</div>
-<br/>
 
 ## 📌What is Autorizz?
 
