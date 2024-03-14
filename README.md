@@ -26,75 +26,7 @@
 <br>
 
 
-## 🧰 Tech Stack
 
-<img alt="HTML5" height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" height="25px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JavaScript" height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" height="25px" src="https://img.shields.io/badge/express.js-%23403f3f.svg?style=for-the-badge&logo=express&logoColor=ffffff"/> <img height="25px" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Heroku" height="25px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-<br>
-
-#### 📊 Get Presentation Here  
-[![PPT](https://img.shields.io/badge/PRESENTATION-D83B01.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://docs.google.com/presentation/d/1532og5t_YkW8XZxuesFLbDnwodWDJxTA)
-<br>
-<br>
-
-
-
-
-## 💻 Web Application
-
-### 🙍‍♂️  Client End
-
-<div>
-<h4>Home</h4>
-<img width="600px" src="docs/assets/client_home.gif" alt="Home" />
-</div>
-
-<div>
-    <h4>Electric Models</h4>
-    <img width="600px" src="docs/assets/electric_filters.gif" alt="Electric Index" />
-    <h4>Electric Models Booking</h4>
-    <img width="600px" src="docs/assets/electric_booking.png" alt="Electric Index" />
-</div>    
-
-<div>
-    <h4>Gas Models</h4>
-    <img width="600px" src="docs/assets/gas_filtering.gif" alt="Gas Index" />
-    <h4>Gas Models Booking</h4>
-    <img width="600px" src="docs/assets/gas_booking.png" alt="Gas Index" />
-
-</div>
-<br>
-<br>
-<br>
-
-
-##  📱 Mobile Responsive
-<div>
-    <h4>Electric</h4>
-    <img height="350px" width="175px" src="docs/mobile/mob_ele1.png" alt="Elec Mob" /> <img height="350px" width="175px" src="docs/mobile/mob_ele2.png" alt="Elec Mob" /> <img height="350px" width="175px" src="docs/mobile/mob_ele_bk.png" alt="Elec Mob" /> <img height="350px" width="175px" src="docs/mobile/mob_ele_bki.png" alt="Elec Mob" /> 
-</div>
-
-<div>
-    <h4>Gas</h4>
-    <img height="350px" width="175px" src="docs/mobile/mob_gas1.png" alt="Gas Mob" /> <img height="350px" width="175px" src="docs/mobile/mob_gas2.png" alt="Gas Mob" /> <img height="350px" width="175px" src="docs/mobile/mod_gas_bk.png" alt="Gas Mob" /> <img height="350px" width="175px" src="docs/mobile/mob_gas_bki.png" alt="Gas Mob" /> 
-</div>
-
-### 🛡️ Admin End
-<div>
-<h4>Login</h4>
-<img width="600px" src="docs/assets/admin_login.png" alt="Home" />
-<h4>Home</h4>
-<img width="600px" src="docs/assets/admin_home_.png" alt="Home" />
-<h4>Manage Service</h4>
-<img width="600px" src="docs/assets/admin_service.png" alt="Home" />
-<h4>Manage Models</h4>
-<img width="600px" src="docs/assets/admin_models.png" alt="Home" />
-<h4>Manage Customers</h4>
-<img width="600px" src="docs/assets/admin_cust.png" alt="Home" />
-</div>
-
-
-<br>
-<br>
 
 ## 📋 Instructions
 #### Application Structure
