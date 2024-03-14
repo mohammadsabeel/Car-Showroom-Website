@@ -7,7 +7,6 @@
 
 
 
-
 ## 📋 Instructions
 #### Application Structure
 ```
